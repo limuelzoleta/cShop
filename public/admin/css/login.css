@@ -1,0 +1,12 @@
+.navbar-inverse .navbar-brand{
+	font-weight: bold;
+	transition: all 0.3s ease;
+}
+.clear{
+	clear: both;
+}
+.container{
+	margin-top: 100px;
+}
+.panel-body{
+	padding: 40px 0 50px;
